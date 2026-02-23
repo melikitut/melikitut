@@ -1,0 +1,8 @@
+Name: 
+Date of Birth: 
+Gender: 
+Address: 
+Phone Number: 
+Email: 
+Education: 
+Skills: 
