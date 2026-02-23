@@ -1,7 +1,7 @@
 Name: Boby
 Date of Birth: 
 Gender: 
-Address: 
+Address: Jakarta
 Phone Number: 
 Email: 
 Education: 
